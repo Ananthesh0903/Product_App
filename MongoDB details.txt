@@ -1,0 +1,3 @@
+0zTikBnJ9VUp3qGu
+ananthesh263
+mongodb+srv://ananthesh263:0zTikBnJ9VUp3qGu@cluster0.itnnt3k.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
